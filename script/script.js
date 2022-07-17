@@ -11,10 +11,18 @@
 // }
 
 // 3
-// const arr = [1, 2, 3, 4, 5];
-// let sum = null;
+// for (let  i = 1; i <= 100; i++){
+//     if (i % 2  === 0){
+//     console.log(i)
+// }
+// }
+
+
 
 // 4
+
+// const arr = [1, 2, 3, 4, 5];
+// let sum = null;
 // for(let i = 0; i < arr.length; i++){
 //     sum += arr[i]    
 // };
